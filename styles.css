@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-main{
+.main{
 	with:200px;
 	background-color:purple;
-	border-left:green thick 5px;
+	border-left:5px solid green;
 	padding:10px;
 	
 }
